@@ -1,5 +1,5 @@
-#Run this:
+# Run this:
 
-#git clone https://github.com/SourcingMogul/EmailCheck.git ~/PGC
+# git clone https://github.com/SourcingMogul/EmailCheck.git ~/EmailCheck
 
-#bash ~/PGC/PGC username
+# bash ~/EmailCheck/EmailCheck username
